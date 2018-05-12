@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6844'
     url: http://www.gutenberg.org/2009/agents/6844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20958#Life-in-the-Medieval-University
 gutenberg_issued: '2007-04-02'
 gutenberg_type: Text
 identifiers:
