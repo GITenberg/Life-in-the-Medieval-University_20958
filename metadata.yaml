@@ -1,0 +1,31 @@
+_repo: Life-in-the-Medieval-University_20958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rait, Robert S. (Robert Sangster)
+    aliases:
+    - Rait, R. S. (Robert Sangster)
+    - Rait, Robert Sangster, Sir
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '6844'
+    url: http://www.gutenberg.org/2009/agents/6844
+description: ''
+gutenberg_issued: '2007-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Universities and colleges -- Europe -- History'
+- !lcsh 'College students -- Europe -- History'
+- !lcsh 'Education, Medieval'
+- !lcc 'LA'
+title: Life in the Medieval University
+url: http://www.gutenberg.org/ebooks/20958
